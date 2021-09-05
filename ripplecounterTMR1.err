@@ -1,0 +1,6 @@
+Warning[203] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 73 : Found opcode in column 1. (nop)
+Message[305] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 74 : Using default destination of 1 (file).
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 100 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 102 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 106 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] E:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 08\RIPPLECOUNTERTMR1.ASM 123 : Using default destination of 1 (file).

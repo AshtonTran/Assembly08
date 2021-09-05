@@ -1,0 +1,44 @@
+MPLINK 4.40, Linker
+Linker Map File - Created Thu May 03 17:59:48 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000066
+.config_2007_RIPPLECOUNTERTMR1.O       code   0x002007    program   0x000002
+                   .org_3       code   0x002100    program   0x000008
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000036      
+                            0x002007    0x002007      
+                            0x002100    0x002103      
+            57 out of 4359 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    again   0x00002e    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                     main   0x00001b    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                    skip1   0x000011    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                    skip2   0x000036    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    skip1   0x000011    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                     main   0x00001b    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                    again   0x00002e    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+                    skip2   0x000036    program     static E:\HW\FinishedAssignments\Assignment 08\ripplecounterTMR1.asm
+
+
